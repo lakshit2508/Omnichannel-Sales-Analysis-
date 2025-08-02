@@ -51,14 +51,6 @@ Using **Python**, **Tableau**, **Power BI**, and **Excel**, this analysis genera
 
 ---
 
-## 📑 Reports
-
-- 📄 **[Offline Report – supermarket_sales_report.pdf](https://github.com/lakshit2508/Omnichannel-Sales-Analysis-/blob/main/Supermarket%20Sales%20Report.pdf)**  
-- 📄 **[Online Sales Report – Discount Optimization Report](https://github.com/lakshit2508/Omnichannel-Sales-Analysis-/blob/main/Online%20Sales%20Analysis/Discount%20Optimization%20Report.pdf)**
-
----
-
-## 📁 Repository Structure
 ## 📁 Repository Structure
 
 ├── 📂 Offline Sales Analysis
