@@ -61,15 +61,23 @@ Using **Python**, **Tableau**, **Power BI**, and **Excel**, this analysis genera
 ## 📁 Repository Structure
 ## 📁 Repository Structure
 
-├── 📂 Offline Sales Analysis/
-│   ├── [supermarket_sales_dataset.csv](./Offline%20Sales%20Analysis/supermarket_sales_dataset.csv) — Main offline sales data file used for analysis and visualization
-│   ├── [supermarket_sales_report.pdf](./Offline%20Sales%20Analysis/supermarket_sales_report.pdf) — Summary of key offline trends, insights, and actionable recommendations
-│   ├── [customer_segmentation.ipynb](./Offline%20Sales%20Analysis/customer_segmentation.ipynb) — Python notebook that contains the logic for analyzing customer behavior and grouping them
-│   ├── [Tableau Dashboard.twbx](./Offline%20Sales%20Analysis/Tableau%20Dashboard.twbx) — Visual dashboard created in Tableau to help interpret and present the findings
-│
-├── 📂 Online Sales Analysis/
-│   ├── [Online_Sales_Data.csv](./Online%20Sales%20Analysis/Online_Sales_Data.csv) — Main dataset used for analyzing sales through the online platform
-│   ├── [Discount Optimization Report.pdf](./Online%20Sales%20Analysis/Discount%20Optimization%20Report.pdf) — Report highlighting how discounts affect profit and sales, with suggestions for improvement
-│   ├── [Power BI Dashboard.pbix](./Online%20Sales%20Analysis/Power%20BI%20Dashboard.pbix) — Interactive dashboard built in Power BI to explore online sales trends and discount strategies
+├── 📂 Offline Sales Analysis
+
+├── [supermarket_sales_dataset.csv](https://github.com/lakshit2508/Omnichannel-Sales-Analysis-/blob/main/modified_supermarket_sales%20(2).xlsx) — Offline sales data file used for analysis and visualization  
+
+├── [supermarket_sales_report.pdf](https://github.com/lakshit2508/Omnichannel-Sales-Analysis-/blob/main/Supermarket%20Sales%20Report.pdf) — Summary of insights, and actionable recommendations
+
+├── [customer_segmentation_&_Forecast.ipynb](https://github.com/lakshit2508/Omnichannel-Sales-Analysis-/blob/main/project_market_sales__1.ipynb) — Colab notebook that contains the logic for analyzing customer behavior and grouping them  
+
+├── [Tableau Dashboard](https://public.tableau.com/app/profile/lakshit.gupta6346/viz/Book4_17376107511900/SuperMarketSales) — Visual dashboard created in Tableau
+
+
+├── 📂 Online Sales Analysis
+
+├── [Online_Sales_Data.csv](https://github.com/lakshit2508/Omnichannel-Sales-Analysis-/blob/main/online_sales_data.xlsx) — Main dataset us for analyzing online sales
+
+├── [Discount Optimization Report.pdf](https://github.com/lakshit2508/Omnichannel-Sales-Analysis-/blob/main/Online%20Sales%20Analysis/Discount%20Optimization%20Report.pdf) — Report highlighting how discounts affect profit and sales  
+
+├── [Power BI Dashboard.pbix](https://github.com/lakshit2508/Omnichannel-Sales-Analysis-/blob/main/Online%20Sales%20Analysis/power%20bi%20sales%20project%202.pbix) — Interactive dashboard built in Power BI   
 
 
