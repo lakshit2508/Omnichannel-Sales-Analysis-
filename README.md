@@ -59,4 +59,17 @@ Using **Python**, **Tableau**, **Power BI**, and **Excel**, this analysis genera
 ---
 
 ## 📁 Repository Structure
+## 📁 Repository Structure
+
+├── 📂 Offline Sales Analysis/
+│   ├── [supermarket_sales_dataset.csv](./Offline%20Sales%20Analysis/supermarket_sales_dataset.csv) — Main offline sales data file used for analysis and visualization
+│   ├── [supermarket_sales_report.pdf](./Offline%20Sales%20Analysis/supermarket_sales_report.pdf) — Summary of key offline trends, insights, and actionable recommendations
+│   ├── [customer_segmentation.ipynb](./Offline%20Sales%20Analysis/customer_segmentation.ipynb) — Python notebook that contains the logic for analyzing customer behavior and grouping them
+│   ├── [Tableau Dashboard.twbx](./Offline%20Sales%20Analysis/Tableau%20Dashboard.twbx) — Visual dashboard created in Tableau to help interpret and present the findings
+│
+├── 📂 Online Sales Analysis/
+│   ├── [Online_Sales_Data.csv](./Online%20Sales%20Analysis/Online_Sales_Data.csv) — Main dataset used for analyzing sales through the online platform
+│   ├── [Discount Optimization Report.pdf](./Online%20Sales%20Analysis/Discount%20Optimization%20Report.pdf) — Report highlighting how discounts affect profit and sales, with suggestions for improvement
+│   ├── [Power BI Dashboard.pbix](./Online%20Sales%20Analysis/Power%20BI%20Dashboard.pbix) — Interactive dashboard built in Power BI to explore online sales trends and discount strategies
+
 
